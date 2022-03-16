@@ -50,3 +50,41 @@ function myLanguages(results) {
   return output;
 }
 ```
+---
+### **WORKING EXPERIENCE**
+
+*06.2017 - 12.2018* **Awem Games, Belarus** - Software Test Engineer
+
+* Manual mobile testing (iOS / Android)
+* Perform different kinds of testing (functional, regression, stress-test, usability, smoke)
+* Testing of new and existing features, using both test plans (TestRail) and exploratory methods
+* Identifying and reporting defects found during test (Jira)
+* Creating Test Reports  
+
+
+*04.2013 - 06.2017* **Belgazprombank, Minsk** - Bank Teller
+
+---
+
+### **EDUCATION**
+**RS School, Educational Center** - ***Node.js Development***  
+NOVEMBER 2021 - FEBRUARY 2022  
+Creating server-side and network applications using Node.js, TypeScript.  
+***Projects:*** [Ciphering CLI tool](https://github.com/v-yelina/rsschool-ciphering-cli-tool), [REST service](https://github.com/v-yelina/nodejs2021Q4-service)
+
+**Tel-Ran, Educational Center, Berlin** - ***Frontend Web Development***  
+MAY 2021 - DECEMBER 2021  
+Develop the visible part (Frontend) of applications, sites and services of various orientations based on JavaScript, HTML and CSS, frameworks ReactJS, Redux, NodeJs
+***Final project:*** [Train Your Vocab](https://github.com/v-yelina/train-your-vocab)
+
+**Belorussian State Economic University, Minsk** - ***Bachelor, Finance***  
+SEPTEMBER 2008 - JANUAR 2013
+
+---
+### **LANGUAGES**
+
+* **English** - B2  
+* **German** - C1
+* **Russian** - Native speaker
+
+---
