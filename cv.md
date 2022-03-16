@@ -10,3 +10,8 @@
 * **LinkedIn:** [Valiantsina Yelina](https://www.linkedin.com/in/valiantsina-yelina/)
 * **Codewars:** [v-yelina](https://www.codewars.com/users/v-yelina)
 -----
+
+### **OBJECTIVE**
+I’m seeking a job in an international company as a Junior Fullstack Developer to join the team and  produce high quality solutions for company customers. As a former software tester I am dedicated to constantly improving products. I am able to perform tasks myself but also want to learn from my colleagues and share my knowledge.
+
+---
